@@ -1,3 +1,3 @@
 # DeathAdderBSDK
 This is `test` **repo**.
-Goto [GOOGLE](google.com)
+Goto [GOOGLE](https://www.google.com)
